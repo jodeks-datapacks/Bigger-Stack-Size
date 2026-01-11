@@ -1,7 +1,7 @@
 {
-  "project_id": "vj1HfksH",
-  "curseforge_project_id": "1426676",
-  "curseforge_slug": "mineable-spawner",
+  "project_id": "sypq9eA6",
+  "curseforge_project_id": "1426688",
+  "curseforge_slug": "bigger-stack-size",
   "loaders": [
     "datapack"
   ],
@@ -15,5 +15,5 @@
   ],
   "version_type": "release",
   "dependencies": "",
-  "discord_role_id": "1252026371874492526"
+  "discord_role_id": "1252026148385325057"
 }
