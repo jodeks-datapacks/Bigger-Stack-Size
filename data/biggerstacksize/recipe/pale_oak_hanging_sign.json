@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hanging_sign",
+  "key": {
+    "#": "minecraft:stripped_pale_oak_log",
+    "X": "minecraft:iron_chain"
+  },
+  "pattern": [
+    "X X",
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 64
+    },
+    "count": 6,
+    "id": "minecraft:pale_oak_hanging_sign"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "id": [-678894869, -1704640057, -1185339821, 1705315599],
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTk4OTU4MDU2NCwKICAicHJvZmlsZUlkIiA6ICJkNzg4ZTJlYjlhNjU0MWM3Yjk1OTI2NTM2NWE1MGQwZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2RlayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZDIyZDNhMmI3NGY0ZDhlZDczMDg2NDk2NjM3NGMzMjYwOTg5ZGFhMTE4NWM1YTVkYTVhZjA2YzgwMmEyNmY3IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOWE3NjUzNzY0Nzk4OWY5YTBiNmQwMDFlMzIwZGFjNTkxYzM1OWU5ZTYxYTMxZjRjZTExYzg4ZjIwN2YwYWQ0IgogICAgfQogIH0KfQ=="
+            }
+          ]
+        }
+      }
+    },
+    "title": "Jodeks Datapacks                                           ",
+    "description": [
+      "",
+      {
+        "text": "Creator of vanilla friendly datapacks\n",
+        "color": "white"
+      },
+      {
+        "text": "\n",
+        "color": "white"
+      },
+      {
+        "text": "modrinth.com/user/Jodek",
+        "color": "dark_purple"
+      }
+    ],
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "banner",
+  "key": {
+    "#": "minecraft:gray_wool",
+    "|": "minecraft:stick"
+  },
+  "pattern": [
+    "###",
+    "###",
+    " | "
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 64
+    },
+    "count": 1,
+    "id": "minecraft:gray_banner"
+  }
+}

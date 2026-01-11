@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": "minecraft:spruce_planks"
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 64
+    },
+    "count": 1,
+    "id": "minecraft:spruce_boat"
+  }
+}

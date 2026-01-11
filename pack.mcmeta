@@ -1,0 +1,41 @@
+{
+  "pack": {
+		"min_format": [88,0],
+		"max_format": [999,0],
+		"pack_format": 88,
+		"supported_formats": [88,999],
+    "description": [
+      {
+        "text": "\"bigger Stack Size\" (biggerstacksize)"
+      },
+      "\n",
+      {
+        "text": "Bigger stack size for all items!",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "text": "Version "
+      },
+      {
+        "text": "2.3.2",
+        "color": "#55ff55"
+      },
+      {
+        "text": " for Minecraft "
+      },
+      {
+        "text": "1.21.10+",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "text": "by "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:iron_ingot",
+    "X": "minecraft:leather"
+  },
+  "pattern": [
+    " X ",
+    "X#X"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 64
+    },
+    "count": 1,
+    "id": "minecraft:saddle"
+  }
+}

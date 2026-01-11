@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:command_block_minecart"
+    },
+    "title": "Utility                                                                         ",
+    "description": [
+      "",
+      {
+        "text": "Utility collection of my datapacks\n",
+        "color": "white"
+      },
+      {
+        "text": "\n",
+        "color": "white"
+      },
+      {
+        "text": "modrinth.com/collection/P5y8mJyI",
+        "color": "dark_purple"
+      }
+    ],
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jodek:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

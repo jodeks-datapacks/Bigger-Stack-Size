@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "misc",
+  "group": "shulker_box_dye",
+  "input": "#minecraft:shulker_boxes",
+  "material": "minecraft:brown_dye",
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 64
+    },
+    "id": "minecraft:brown_shulker_box"
+  }
+}

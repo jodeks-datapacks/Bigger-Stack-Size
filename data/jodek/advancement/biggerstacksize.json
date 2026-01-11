@@ -1,0 +1,60 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:totem_of_undying"
+    },
+    "title": "Bigger Stack Size                                                                                    ",
+    "description": [
+      "",
+      {
+        "text": "Stack size of 64 for (almost) all items! \n",
+        "color": "white"
+      },
+      {
+        "text": "\n",
+        "color": "yellow"
+      },
+      {
+        "text": "Datapack version: ",
+        "color": "dark_green"
+      },
+      {
+        "text": "v2.3.2",
+        "color": "green"
+      },
+      {
+        "text": "\n",
+        "color": "green"
+      },
+      {
+        "text": "Game version: ",
+        "color": "dark_green"
+      },
+      {
+        "text": "1.21.10+",
+        "color": "green"
+      },
+      {
+        "text": "\n",
+        "color": "green"
+      },
+      {
+        "text": "\n",
+        "color": "green"
+      },
+      {
+        "text": "modrinth.com/datapack/bigger-stack-size",
+        "color": "dark_purple"
+      }
+    ],
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jodek:utility",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

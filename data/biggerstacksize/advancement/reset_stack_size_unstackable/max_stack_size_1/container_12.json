@@ -1,0 +1,50 @@
+{
+  "criteria": {
+    "inventory_change": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&active"
+              },
+              "score": "biggerstacksize.config"
+            },
+            "range": 1
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "slots": {
+                "container.12": {
+                  "components": {
+                    "minecraft:custom_name": "unstackable"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "slots": {
+                "container.12": {
+                  "items": "#biggerstacksize:stackable_1"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "biggerstacksize:app/biggerstacksize/items/reset_stack_size/max_stack_size_1/container_12"
+  }
+}

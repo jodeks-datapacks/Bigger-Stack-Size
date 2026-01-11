@@ -1,0 +1,11 @@
+name: Publish to Modrinth and CurseForge
+on:
+  release:
+    types: [published]
+jobs:
+  publish:
+    uses: jodeks-datapacks/.github/.github/workflows/mc-publish.yml@main
+    secrets:
+      MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+      CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
