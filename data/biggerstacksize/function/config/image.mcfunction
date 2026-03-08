@@ -16,7 +16,7 @@ function biggerstacksize:image/set_image_data {\
     "Bigger Stack Size",\
     {"text": "Stack size of 64 for (almost) all items!", "color": "#aaaaaa"},\
     "",\
-    [{"text": "Datapack version: ", "color": "#00a800"}, {"text": "v2.3.2", "color": "#54fc54"}],\
+    [{"text": "Datapack version: ", "color": "#00a800"}, {"text": "v2.3.3", "color": "#54fc54"}],\
     [{"text": "Game version: ", "color": "#00a800"}, {"text": "1.21.10+", "color": "#54fc54"}],\
     "",\
     [{"text": "By ", "color": "#fcfcfc"}, {"text": "Jodek", "color": "#fcfc54"}],\
