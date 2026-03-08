@@ -3,20 +3,12 @@
     "icon": {
       "id": "minecraft:command_block_minecart"
     },
-    "title": "Utility                                                                         ",
+    "title": "Utility datapacks              ",
     "description": [
-      "",
       {
-        "text": "Utility collection of my datapacks\n",
-        "color": "white"
-      },
-      {
-        "text": "\n",
-        "color": "white"
-      },
-      {
-        "text": "modrinth.com/collection/P5y8mJyI",
-        "color": "dark_purple"
+        "text": "Providing general purpose features and quality of life improvements",
+        "color": "white",
+        "bold": false
       }
     ],
     "frame": "goal",

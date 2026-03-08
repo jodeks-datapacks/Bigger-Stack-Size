@@ -1,27 +1,22 @@
-# Bigger Stack Size
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![minecraft datapack bigger stack size mod custom stack size mod](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/biggerstacksizev1.png)
+
 </div>
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
- </picture><br>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+<div align="center">
+
+[![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![matrix - datapacks matrix - jodeks datapacks matrix](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![armor stand arms minecraft datapack github issues](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Issues.png)](https://github.com/jodeks-datapacks/Bigger-Stack-Size/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek donation datapacks minecraft](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Sponsor_Pink.png)](https://github.com/sponsors/Jodekq)
+
+</div>
 
 **All items are stackable by default to 64, they get updated once they're in your inventory**
 
 **All items that are normally stackable up to 1 or 16 are now stackable up to 64**
-
-### 1.21.10+
-
-Choose the max stack size in the config
 
 ## Config 1.21.5 and up
 
@@ -42,6 +37,13 @@ datapack/biggerstacksize/tags/item/stackable.json
 ## To make certain items temporarily unstackable, e.g. for an item sorter:
 
 Name the item "unstackable" with an anvil
+
+## To update items from a version below 1.21.6
+
+```
+/trigger biggerstacksize.update_items
+```
+Updates every item in your inventory, make sure to not have items that have custom data you don't want to loose (e.g. from other datapacks)
 
 ## Showcase
 
@@ -90,19 +92,6 @@ Name the item "unstackable" with an anvil
 value = 0 = Disabled and it all resets
 
 value = 1 = Enabled
-
----
-
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/issue.svg">
-   <img alt="Issue" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/issue.svg">
- </picture><br>
-
-All items from the creative inventory or items stored before you've installed the datapack will not be stacked by default
-
-or if an item doesn't stack
-
- **--> Drop them on the ground and pick them up again**
 
 ## Guides
 

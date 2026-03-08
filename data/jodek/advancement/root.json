@@ -4,7 +4,6 @@
       "id": "minecraft:player_head",
       "components": {
         "minecraft:profile": {
-          "id": [-678894869, -1704640057, -1185339821, 1705315599],
           "properties": [
             {
               "name": "textures",
@@ -14,9 +13,8 @@
         }
       }
     },
-    "title": "Jodeks Datapacks                                           ",
+    "title": "Jodek's Datapacks        ",
     "description": [
-      "",
       {
         "text": "Creator of vanilla friendly datapacks\n",
         "color": "white"
