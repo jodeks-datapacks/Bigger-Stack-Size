@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:yellow_banner"
+        "recipe": "bigger_stack_size:yellow_banner"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:yellow_banner"
+      "bigger_stack_size:yellow_banner"
     ]
   }
 }

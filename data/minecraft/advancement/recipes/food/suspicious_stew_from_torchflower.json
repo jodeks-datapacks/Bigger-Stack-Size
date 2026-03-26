@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:suspicious_stew_from_torchflower"
+        "recipe": "bigger_stack_size:suspicious_stew_from_torchflower"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:suspicious_stew_from_torchflower"
+      "bigger_stack_size:suspicious_stew_from_torchflower"
     ]
   }
 }

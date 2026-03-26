@@ -31,7 +31,7 @@
                       "type": "minecraft:fixed",
                       "name": "&active"
                     },
-                    "score": "biggerstacksize.config"
+                    "score": "bigger_stack_size.config"
                   },
                   "range": 1
                 },
@@ -43,7 +43,7 @@
                       "type": "minecraft:fixed",
                       "name": "&snowball"
                     },
-                    "score": "biggerstacksize.stackable"
+                    "score": "bigger_stack_size.stackable"
                   },
                   "range": 1
                 }
@@ -51,7 +51,7 @@
             },
             {
               "function": "minecraft:set_custom_data",
-              "tag": "{biggerstacksize:64}",
+              "tag": "{bigger_stack_size:64}",
               "conditions": [
                 {
                   "condition": "minecraft:value_check",
@@ -61,7 +61,7 @@
                       "type": "minecraft:fixed",
                       "name": "&active"
                     },
-                    "score": "biggerstacksize.config"
+                    "score": "bigger_stack_size.config"
                   },
                   "range": 1
                 },
@@ -73,7 +73,7 @@
                       "type": "minecraft:fixed",
                       "name": "&snowball"
                     },
-                    "score": "biggerstacksize.stackable"
+                    "score": "bigger_stack_size.stackable"
                   },
                   "range": 1
                 }

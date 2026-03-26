@@ -39,7 +39,7 @@
                       "type": "minecraft:fixed",
                       "name": "&active"
                     },
-                    "score": "biggerstacksize.config"
+                    "score": "bigger_stack_size.config"
                   },
                   "range": 1
                 },
@@ -51,7 +51,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderpearl"
                     },
-                    "score": "biggerstacksize.stackable"
+                    "score": "bigger_stack_size.stackable"
                   },
                   "range": 1
                 }
@@ -110,7 +110,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderman"
                     },
-                    "score": "mobheads.rarity"
+                    "score": "mob_heads.rarity"
                   },
                   "range": 0
                 }
@@ -137,7 +137,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderman"
                     },
-                    "score": "mobheads.rarity"
+                    "score": "mob_heads.rarity"
                   },
                   "range": 1
                 }
@@ -164,7 +164,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderman"
                     },
-                    "score": "mobheads.rarity"
+                    "score": "mob_heads.rarity"
                   },
                   "range": 2
                 }
@@ -191,7 +191,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderman"
                     },
-                    "score": "mobheads.rarity"
+                    "score": "mob_heads.rarity"
                   },
                   "range": 3
                 }
@@ -218,7 +218,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderman"
                     },
-                    "score": "mobheads.rarity"
+                    "score": "mob_heads.rarity"
                   },
                   "range": 4
                 }
@@ -245,7 +245,7 @@
                       "type": "minecraft:fixed",
                       "name": "&enderman"
                     },
-                    "score": "mobheads.rarity"
+                    "score": "mob_heads.rarity"
                   },
                   "range": 5
                 }
@@ -261,13 +261,13 @@
           "conditions": [
             {
               "condition": "reference",
-              "name": "mobheads:should_head_drop"
+              "name": "mob_heads:should_head_drop"
             },
             {
               "condition": "minecraft:random_chance",
               "chance": {
                 "type": "minecraft:storage",
-                "storage": "mobheads:root",
+                "storage": "mob_heads:root",
                 "path": "enderman"
               }
             },

@@ -1,6 +1,6 @@
 {
   "values": [
-    "biggerstacksize:app/setup",
-    "biggerstacksize:app/load_message"
+    "bigger_stack_size:app/setup",
+    "bigger_stack_size:app/load_message"
   ]
 }

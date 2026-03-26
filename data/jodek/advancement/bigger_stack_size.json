@@ -1,0 +1,79 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:totem_of_undying"
+    },
+    "title": "Bigger Stack Size           ",
+    "description": [
+      {
+        "translate": "bigger_stack_size.description",
+        "fallback": "Stack size of 64 for (almost) all items!",
+        "color": "white"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "/trigger bigger_stack_size.config",
+        "color": "yellow"
+      },
+      {
+        "text": "\n\n"
+      },
+      {
+        "translate": "jodek.datapack_version",
+        "fallback": "Datapack version: ",
+        "color": "dark_green"
+      },
+      {
+        "text": "v2.3.4",
+        "color": "green"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "translate": "jodek.game_version",
+        "fallback": "Game version: ",
+        "color": "dark_green"
+      },
+      {
+        "text": "1.21.10+",
+        "color": "green"
+      },
+      {
+        "text": "\n\n"
+      },
+      {
+        "text": "modrinth.com/datapack/bigger-stack-size",
+        "color": "dark_purple"
+      }
+    ],
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "jodek:utility",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&bigger_stack_size_advancements"
+              },
+              "score": "jodek.config"
+            },
+            "range": 1
+          }
+        ]
+      }
+    }
+  }
+}

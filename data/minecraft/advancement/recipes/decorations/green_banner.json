@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:green_banner"
+        "recipe": "bigger_stack_size:green_banner"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:green_banner"
+      "bigger_stack_size:green_banner"
     ]
   }
 }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:rabbit_stew_from_red_mushroom"
+        "recipe": "bigger_stack_size:rabbit_stew_from_red_mushroom"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:rabbit_stew_from_red_mushroom"
+      "bigger_stack_size:rabbit_stew_from_red_mushroom"
     ]
   }
 }

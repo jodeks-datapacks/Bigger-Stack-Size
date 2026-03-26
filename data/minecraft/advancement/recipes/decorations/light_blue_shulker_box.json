@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:light_blue_shulker_box"
+        "recipe": "bigger_stack_size:light_blue_shulker_box"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:light_blue_shulker_box"
+      "bigger_stack_size:light_blue_shulker_box"
     ]
   }
 }

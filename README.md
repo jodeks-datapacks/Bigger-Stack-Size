@@ -1,6 +1,6 @@
 <div align="center">
   
-![minecraft datapack bigger stack size mod custom stack size mod](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/biggerstacksizev1.png)
+![minecraft datapack bigger stack size mod custom stack size mod](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/bigger_stack_sizev1.png)
 
 </div>
 
@@ -21,7 +21,7 @@
 ## Config 1.21.5 and up
 
 ```
-/trigger biggerstacksize.config
+/trigger bigger_stack_size.config
 ```
 
 If disabled in the config, all items will reset when you split them up in your inventory
@@ -31,7 +31,7 @@ If disabled in the config, all items will reset when you split them up in your i
 Edit this file:
 
 ```
-datapack/biggerstacksize/tags/item/stackable.json
+datapack/bigger_stack_size/tags/item/stackable.json
 ```
 
 ## To make certain items temporarily unstackable, e.g. for an item sorter:
@@ -41,7 +41,7 @@ Name the item "unstackable" with an anvil
 ## To update items from a version below 1.21.6
 
 ```
-/trigger biggerstacksize.update_items
+/trigger bigger_stack_size.update_items
 ```
 Updates every item in your inventory, make sure to not have items that have custom data you don't want to loose (e.g. from other datapacks)
 
@@ -87,7 +87,7 @@ Updates every item in your inventory, make sure to not have items that have cust
 **To change what group of items should be stackable**
 
 ```
-/scoreboard players set &active biggerstacksize.config value
+/scoreboard players set &active bigger_stack_size.config value
 ```
 value = 0 = Disabled and it all resets
 

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:suspicious_stew_from_open_eyeblossom"
+        "recipe": "bigger_stack_size:suspicious_stew_from_open_eyeblossom"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:suspicious_stew_from_open_eyeblossom"
+      "bigger_stack_size:suspicious_stew_from_open_eyeblossom"
     ]
   }
 }

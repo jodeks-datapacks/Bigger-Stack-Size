@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:armor_stand"
+        "recipe": "bigger_stack_size:armor_stand"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:armor_stand"
+      "bigger_stack_size:armor_stand"
     ]
   }
 }

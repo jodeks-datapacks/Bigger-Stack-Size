@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": "biggerstacksize:wither_skeleton_skull"
+            "items": "bigger_stack_size:wither_skeleton_skull"
           }
         ]
       },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:skull_banner_pattern"
+      "bigger_stack_size:skull_banner_pattern"
     ]
   }
 }

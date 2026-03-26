@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:bordure_indented_banner_pattern"
+        "recipe": "bigger_stack_size:bordure_indented_banner_pattern"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:bordure_indented_banner_pattern"
+      "bigger_stack_size:bordure_indented_banner_pattern"
     ]
   }
 }

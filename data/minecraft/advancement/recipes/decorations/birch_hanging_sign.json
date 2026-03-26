@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "biggerstacksize:birch_hanging_sign"
+        "recipe": "bigger_stack_size:birch_hanging_sign"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "biggerstacksize:birch_hanging_sign"
+      "bigger_stack_size:birch_hanging_sign"
     ]
   }
 }
