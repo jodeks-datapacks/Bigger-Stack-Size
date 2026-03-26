@@ -18,7 +18,7 @@
 
 **All items that are normally stackable up to 1 or 16 are now stackable up to 64**
 
-## Config 1.21.5 and up
+## Config
 
 ```
 /trigger bigger_stack_size.config
@@ -87,7 +87,7 @@ Updates every item in your inventory, make sure to not have items that have cust
 **To change what group of items should be stackable**
 
 ```
-/scoreboard players set &active bigger_stack_size.config value
+/scoreboard players set &active biggerstacksize.config value
 ```
 value = 0 = Disabled and it all resets
 
