@@ -21,20 +21,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 END OF LICENSE
-
----
-
-Summary
-
-Permissions
-- Commercial use
-- Distribution
-- Modification
-- Private use
-
-Conditions
-- License and copyright notice
-
-Limitations
-- Liability
-- Warranty

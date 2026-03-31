@@ -1,7 +1,7 @@
 {
-  "project_id": "sypq9eA6",
-  "curseforge_project_id": "1426688",
-  "curseforge_mod_project_id": "1426690",
+  "modrinth_id": "sypq9eA6",
+  "curseforge_id": "1426688",
+  "curseforge_mod_id": "1426690",
   "curseforge_slug": "bigger-stack-size",
   "loaders": ["datapack"],
   "game_versions": [
