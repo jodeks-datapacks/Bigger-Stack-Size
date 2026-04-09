@@ -6,7 +6,7 @@
     "supported_formats": [88, 999],
     "description": [
       {
-        "text": "\"bigger Stack Size\" (bigger_stack_size)"
+        "text": "\"Bigger Stack Size\" (bigger_stack_size)"
       },
       "\n",
       {
@@ -24,20 +24,6 @@
       },
       {
         "text": "2.3.4",
-        "color": "#55ff55"
-      },
-      {
-        "text": " "
-      },
-      {
-        "translate": "jodek.for_minecraft",
-        "fallback": "for Minecraft"
-      },
-      {
-        "text": " "
-      },
-      {
-        "text": "1.21.10+",
         "color": "#55ff55"
       },
       "\n",
