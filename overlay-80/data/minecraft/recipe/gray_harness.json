@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "harness",
+  "key": {
+    "#": "minecraft:gray_wool",
+    "G": "minecraft:glass",
+    "L": "minecraft:leather"
+  },
+  "pattern": [
+    "LLL",
+    "G#G"
+  ],
+  "result": {
+    "id": "minecraft:gray_harness",
+    "components": {
+      "minecraft:max_stack_size": 64
+    }
+  }
+}
