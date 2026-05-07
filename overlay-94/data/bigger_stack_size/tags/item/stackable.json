@@ -171,6 +171,22 @@
     "copper_nautilus_armor",
     "golden_nautilus_armor",
     "diamond_nautilus_armor",
-    "netherite_nautilus_armor"
+    "netherite_nautilus_armor",
+    "black_harness",
+    "blue_harness",
+    "brown_harness",
+    "cyan_harness",
+    "red_harness",
+    "green_harness",
+    "purple_harness",
+    "light_blue_harness",
+    "light_gray_harness",
+    "lime_harness",
+    "orange_harness",
+    "pink_harness",
+    "gray_harness",
+    "yellow_harness",
+    "white_harness",
+    "magenta_harness"
   ]
 }
