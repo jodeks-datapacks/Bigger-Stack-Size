@@ -1,9 +1,9 @@
 {
   "pack": {
-    "min_format": [88, 0],
+    "min_format": [80, 0],
     "max_format": [999, 0],
-    "pack_format": 88,
-    "supported_formats": [88, 999],
+    "pack_format": 80,
+    "supported_formats": [80, 999],
     "description": [
       {
         "text": "\"Bigger Stack Size\" (bigger_stack_size)"
@@ -43,8 +43,8 @@
   "overlays": {
     "entries": [
       {
-        "directory": "overlay-80",
-        "min_format": 80,
+        "directory": "overlay-94",
+        "min_format": 94,
         "max_format": 999
       }
     ]

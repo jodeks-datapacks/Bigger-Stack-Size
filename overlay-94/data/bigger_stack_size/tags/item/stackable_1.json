@@ -87,6 +87,22 @@
     "minecraft:goat_horn",
     "minecraft:iron_horse_armor",
     "minecraft:golden_horse_armor",
-    "minecraft:diamond_horse_armor"
+    "minecraft:diamond_horse_armor",
+    "minecraft:netherite_horse_armor",
+    "iron_nautilus_armor",
+    "copper_nautilus_armor",
+    "golden_nautilus_armor",
+    "diamond_nautilus_armor",
+    "netherite_nautilus_armor",
+    "minecraft:cod_bucket",
+    "minecraft:lava_bucket",
+    "minecraft:milk_bucket",
+    "minecraft:water_bucket",
+    "minecraft:salmon_bucket",
+    "minecraft:axolotl_bucket",
+    "minecraft:tadpole_bucket",
+    "minecraft:pufferfish_bucket",
+    "minecraft:powder_snow_bucket",
+    "minecraft:tropical_fish_bucket"
   ]
 }
